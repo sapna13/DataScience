@@ -1,2 +1,2 @@
 # DataScience
-Data science projects creted from scratch, for educational and demonstration purposes.
+Data science projects and code snippets for educational and demonstration purposes.
